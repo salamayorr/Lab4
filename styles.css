@@ -1,0 +1,82 @@
+body {
+    background-color: #B0BC98
+}
+
+#contenedor {
+    width: 970px;
+    
+
+    margin: 0 auto;
+    padding: 25px;
+    height: 100%;
+}
+
+#header {
+    text-align:center
+    
+    
+}#header h1 {
+    font-family: 'Futura';
+    padding: 20px;
+}
+
+#header ul li{
+    display: inline;
+    margin: 0 3px;
+
+}
+
+#header ul li a {
+    text-decoration: none;
+    background-color: green;
+    padding: 18px;
+    color: #ffffff 
+    
+
+}
+
+
+
+#header ul li a:hover {
+    background-color: #007CC2;
+    text-decoration: underline;
+    
+}
+
+#ViejoMontreal img {
+    image-orientation:flip;
+    width: 500px;
+    height: 400px;
+}
+
+#Escuela img {
+    image-orientation:flip;
+    width: 250px;
+    height: 200px;
+}
+
+#Kwik-E-Mart img {
+    image-orientation:flip;
+    width: 250px;
+    height: 200px;
+}
+
+#PlantaNuclear img {
+    image-orientation:flip;
+    width: 250px;
+    height: 200px;
+}
+
+#CasaBurns img {
+    image-orientation:flip;
+    width: 250px;
+    height: 200px;
+}
+
+#Juego img {
+    image-orientation:flip;
+    width: 250px;
+    height: 200px;
+
+}
+
